@@ -1,12 +1,21 @@
-# 🚀 My Portfolio Website
+# Erfan Afshar — Portfolio Website
 
-Welcome to my personal portfolio website!  
-This site showcases my **projects, skills, and professional experience** in an interactive and visually appealing way.
+Welcome to my personal portfolio website, designed to showcase my background, projects, and technical skills in a clean and interactive layout.
 
-🔗 **Live Demo:** https://erfanafshar.github.io
+Live Demo: https://erfanafshar.github.io
 
-## 📌 Features
-- **Responsive Design** – Works on desktops, tablets, and mobile devices 📱💻  
-- **Projects Showcase** – Highlighting my key work and contributions  
-- **Smooth Animations & Transitions** – For a modern user experience ✨  
-- **Contact Form** – Easily reach out to me  
+## Features
+- Responsive design for all devices
+- Project portfolio with visual previews
+- Smooth animations and modern UI
+- Skills and resume sections
+- Simple contact via email or LinkedIn
+
+## Tech Stack
+HTML, CSS, JavaScript, Bootstrap 5  
+AOS (Animate on Scroll), Glightbox, Swiper.js  
+Based on: EasyFolio template by BootstrapMade
+
+## Structure
+- `index.html`: Main entry point
+- `assets/`: All styles, scripts, images, and vendor libraries
